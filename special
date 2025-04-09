@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arjun is a MANDAN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            font-size: 3em;
+            color: #ff6347;
+        }
+        p {
+            font-size: 1.5em;
+            color: #2e8b57;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Arjun is a MANDAN</h1>
+        <p>Welcome to Arjun's GitHub Page!</p>
+    </div>
+</body>
+</html>
